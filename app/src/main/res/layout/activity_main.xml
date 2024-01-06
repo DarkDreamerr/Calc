@@ -24,7 +24,7 @@
         android:id="@+id/EnteredTV"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Text View"
+        android:text="TextView"
         android:layout_above="@+id/resultTV"
         android:layout_marginStart="12dp"
         android:layout_marginTop="12dp"
@@ -32,7 +32,7 @@
         android:layout_marginBottom="12dp"
         android:textAlignment="textEnd"
         android:textColor="@color/white"
-        android:textSize="40dp"/>/>
+        android:textSize="40dp"/>
     <LinearLayout
         android:id="@+id/MainLayout"
         android:layout_width="match_parent"
